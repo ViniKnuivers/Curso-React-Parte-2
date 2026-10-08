@@ -1,0 +1,25 @@
+total 616
+drwxr-xr-x@  24 knuivers  staff     768 14 ago 11:43 .
+drwxr-xr-x    6 knuivers  staff     192 13 ago 13:18 ..
+drwxr-xr-x@   3 knuivers  staff      96 13 ago 14:33 .agents
+drwxr-xr-x@   3 knuivers  staff      96 13 ago 14:33 .claude
+drwxr-xr-x    3 knuivers  staff      96 13 ago 14:09 .data
+-rw-r--r--@   1 knuivers  staff      82 13 ago 14:44 .env
+drwxr-xr-x@  10 knuivers  staff     320 13 ago 13:18 .git
+-rw-r--r--@   1 knuivers  staff     718 13 ago 14:33 .gitignore
+drwxr-xr-x@   3 knuivers  staff      96 13 ago 14:33 .windsurf
+drwxr-xr-x@   8 knuivers  staff     256 13 ago 20:09 dist
+-rw-r--r--@   1 knuivers  staff     303 13 ago 14:08 docker-compose.yml
+-rw-r--r--@   1 knuivers  staff     533 13 ago 13:50 eslint.config.mjs
+drwxr-xr-x@   3 knuivers  staff      96 13 ago 19:36 generated
+-rw-r--r--@   1 knuivers  staff     171 13 ago 13:14 nest-cli.json
+drwxr-xr-x@ 394 knuivers  staff   12608 13 ago 19:39 node_modules
+-rw-r--r--@   1 knuivers  staff       0 14 ago 11:43 output.log
+-rw-r--r--@   1 knuivers  staff  272762 13 ago 19:39 package-lock.json
+-rw-r--r--@   1 knuivers  staff    1203 13 ago 19:39 package.json
+drwxr-xr-x@   4 knuivers  staff     128 13 ago 19:38 prisma
+-rw-r--r--@   1 knuivers  staff     374 13 ago 14:33 prisma.config.ts
+-rw-r--r--@   1 knuivers  staff    2192 13 ago 14:33 skills-lock.json
+drwxr-xr-x@   7 knuivers  staff     224 13 ago 19:39 src
+-rw-r--r--@   1 knuivers  staff      97 13 ago 13:14 tsconfig.build.json
+-rw-r--r--@   1 knuivers  staff     677 13 ago 14:03 tsconfig.json
